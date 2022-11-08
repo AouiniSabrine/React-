@@ -1,0 +1,33 @@
+
+
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background: teal;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  place-items: center;
+  overflow: hidden;
+  font-family: poppins;
+}
+
+ form label{
+ 
+  color: aliceblue;
+ 
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+h1{
+  color: #ffeba7;
+  text-align:center ;
+}
+
